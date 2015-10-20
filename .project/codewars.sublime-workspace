@@ -1,0 +1,1336 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"num",
+				"num_to_swap"
+			],
+			[
+				"content-box",
+				"content-box-thumb"
+			],
+			[
+				"call",
+				"callmeishmael-api"
+			],
+			[
+				"uni",
+				"unique_identifier"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"loca",
+				"location_array"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"audi",
+				"audioplayer"
+			],
+			[
+				"state",
+				"stateParams"
+			],
+			[
+				"st",
+				"state"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"overflw",
+				"overflow-x"
+			],
+			[
+				"center",
+				"center"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"translate",
+				"translate3d"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"AM",
+				"AMail"
+			],
+			[
+				"titleCase",
+				"titleCaseFilter"
+			],
+			[
+				"total",
+				"totalCart"
+			],
+			[
+				"Cart",
+				"CartController"
+			],
+			[
+				"Restaurant",
+				"RestaurantTableController"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"marin",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"vi",
+				"visibility"
+			],
+			[
+				"c",
+				"captions"
+			],
+			[
+				"backgroud",
+				"background-color"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"l",
+				"line-height"
+			],
+			[
+				"sty",
+				"stylesheet"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"requ",
+				"requireMain"
+			],
+			[
+				"require",
+				"requireMain"
+			],
+			[
+				"as",
+				"assetAttr"
+			],
+			[
+				"path",
+				"pathList"
+			],
+			[
+				"con",
+				"configuration"
+			],
+			[
+				"inser",
+				"insertionChild"
+			],
+			[
+				"tex",
+				"textContent"
+			],
+			[
+				"child",
+				"childElementCount"
+			],
+			[
+				"ch",
+				"catch"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"NS_",
+				"NS_DELETION"
+			],
+			[
+				"NS",
+				"NS_INSERTION"
+			],
+			[
+				"appl",
+				"applyOverrideToElement"
+			],
+			[
+				"att",
+				"attributes"
+			],
+			[
+				"a",
+				"attribute"
+			],
+			[
+				"get",
+				"getAttributeNodeNS"
+			],
+			[
+				"app",
+				"applyOverrideToElement"
+			],
+			[
+				"chid",
+				"children"
+			],
+			[
+				"cl",
+				"childNodes"
+			],
+			[
+				"o",
+				"overrideXML"
+			],
+			[
+				"ov",
+				"overrideXML"
+			],
+			[
+				"pro",
+				"processOverrides"
+			],
+			[
+				"ove",
+				"override"
+			],
+			[
+				"Cours",
+				"CoursewareController"
+			],
+			[
+				"config",
+				"configuration"
+			],
+			[
+				"from",
+				"fromParams"
+			],
+			[
+				"to",
+				"toParams"
+			],
+			[
+				"coten",
+				"content_root"
+			],
+			[
+				"cont",
+				"content_root"
+			],
+			[
+				"confi",
+				"configuration"
+			],
+			[
+				"cone",
+				"content_root"
+			],
+			[
+				"root",
+				"rootScope"
+			],
+			[
+				"page",
+				"pageID"
+			],
+			[
+				"pr",
+				"promise"
+			],
+			[
+				"content",
+				"contentPath"
+			],
+			[
+				"at",
+				"attributes"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"lo",
+				"localName"
+			],
+			[
+				"n",
+				"namespaceURI"
+			],
+			[
+				"attr",
+				"attributes"
+			],
+			[
+				"node",
+				"nodeType"
+			],
+			[
+				"name",
+				"namespaceURI"
+			],
+			[
+				"m",
+				"manifest"
+			],
+			[
+				"chil",
+				"children"
+			],
+			[
+				"getE",
+				"getElementsByTagName"
+			],
+			[
+				"N",
+				"NS_INSERTION"
+			],
+			[
+				"s",
+				"scope"
+			],
+			[
+				"ne",
+				"nextParams"
+			],
+			[
+				"pA",
+				"pageID"
+			],
+			[
+				"tr",
+				"transitionComplete"
+			],
+			[
+				"next",
+				"nextParams"
+			],
+			[
+				"nex",
+				"nextParams"
+			],
+			[
+				"toS",
+				"toParams"
+			],
+			[
+				"sta",
+				"stateParams"
+			],
+			[
+				"load",
+				"loadScreen"
+			],
+			[
+				"getP",
+				"getPageLookup"
+			],
+			[
+				"modul",
+				"modules"
+			],
+			[
+				"mod",
+				"modules"
+			],
+			[
+				"cn",
+				"console"
+			],
+			[
+				"unit",
+				"unit_pages"
+			],
+			[
+				"TG1",
+				"TG1Controller"
+			],
+			[
+				"TG",
+				"TG1Controller"
+			],
+			[
+				"scre",
+				"screen-container"
+			],
+			[
+				"templa",
+				"templateUrl"
+			],
+			[
+				"angula",
+				"angular-ui-router"
+			],
+			[
+				"Course",
+				"CourseController"
+			],
+			[
+				"contr",
+				"controllers"
+			],
+			[
+				"w",
+				"world"
+			],
+			[
+				"conte",
+				"context-challenge"
+			],
+			[
+				"ad",
+				"addFruit"
+			],
+			[
+				"cur",
+				"currentChallenge"
+			],
+			[
+				"queue",
+				"queueClip"
+			],
+			[
+				"butt",
+				"button-container"
+			],
+			[
+				"puzzles",
+				"puzzles-pipes"
+			],
+			[
+				"add",
+				"addItem"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"re",
+				"retina-background"
+			],
+			[
+				"but",
+				"button-container"
+			],
+			[
+				"compo",
+				"components"
+			],
+			[
+				"com",
+				"components"
+			],
+			[
+				"manu",
+				"manualMode"
+			],
+			[
+				"man",
+				"manualMode"
+			],
+			[
+				"cry",
+				"crystalsLoaded"
+			],
+			[
+				"crys",
+				"crystalLevel"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/jason/Documents/UI/codewars/next-biggest-number/lib/codewars.rb",
+			"settings":
+			{
+				"buffer_size": 1307,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jason/Documents/UI/codewars/next-biggest-number/spec/codewars_spec.rb",
+			"settings":
+			{
+				"buffer_size": 1290,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "rspec",
+		"selected_items":
+		[
+			[
+				"rspec",
+				"RSpec: open corresponding file"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"REMOVE",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Package Control: Create Package File"
+			],
+			[
+				"snippe",
+				"Snippet: html"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 486.0
+	},
+	"console":
+	{
+		"height": 379.0,
+		"history":
+		[
+			"echo $PATH",
+			"$",
+			"'hello world'",
+			"clear",
+			"git status;",
+			"git status",
+			"ls",
+			"rspec spec",
+			"gem install columnize -v 0.9.0",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jason/Documents/UI/codewars",
+		"/Users/jason/Documents/UI/codewars/map-function-issue/spec",
+		"/Users/jason/Documents/UI/codewars/surrounding-primes/lib",
+		"/Users/jason/Documents/UI/codewars/surrounding-primes/spec"
+	],
+	"file_history":
+	[
+		"/Users/jason/Library/Application Support/Sublime Text 3/Packages/User/RSpec/rspec-shell.sublime-build",
+		"/Users/jason/Documents/UI/codewars/map-function-issue/spec/codewars_spec.rb",
+		"/Users/jason/Library/Application Support/Sublime Text 3/Packages/User/RSpec/RSpec.sublime-build",
+		"/Users/jason/Documents/UI/codewars/next-biggest-number/spec/rspec-redux.sublime-build",
+		"/Users/jason/Documents/UI/codewars/next-biggest-number/rspec-redux.sublime-build",
+		"/Users/jason/Documents/UI/codewars/next-biggest-number/Gemfile",
+		"/Users/jason/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb",
+		"/Users/jason/Documents/UI/codewars/next-biggest-number/lib/codewars.js",
+		"/Users/jason/Documents/UI/codewars/surrounding-primes/spec/codewars_spec.js",
+		"/Users/jason/Documents/UI/codewars/surrounding-primes/spec/codewars_spec.rb",
+		"/Users/jason/Documents/UI/codewars/surrounding-primes/lib/codewars.js",
+		"/Users/jason/Documents/UI/codewars/surrounding-primes/lib/codewars.rb",
+		"/Users/jason/Documents/UI/codewars/map-function-issue/spec/codewars_spec.js",
+		"/Users/jason/Documents/UI/codewars/map-function-issue/lib/codewars.js",
+		"/Users/jason/Documents/UI/codewars/map-function-issue/lib/codewars.rb",
+		"/Users/jason/Documents/UI/codewars/map-function-issue/karma.conf.js",
+		"/Users/jason/Documents/UI/codewars/map-function-issue/package.json",
+		"/Users/jason/Documents/UI/codewars/ten-minute-walk/spec/codewars_spec.js",
+		"/Users/jason/Documents/UI/codewars/ten-minute-walk/spec/codewars_spec.rb",
+		"/Users/jason/Documents/UI/codewars/ten-minute-walk/lib/codewars.rb",
+		"/Users/jason/Documents/UI/codewars/map-function-issue/.rspec",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/app/views/landings/index.mobile.haml",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/app/views/landings/_blue_car_2fields_min_foundation_mobile.mobile.haml",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/spec/features/fullform_mobile_foundation_spec.rb",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/app/views/auto_policies/fullform_mobile_foundation/_s1.mobile.haml",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/tmp/capybara/screenshot_with_all_ab_tests_running_on_the_happy_path_in_the_truly_happy_path_2015-10-13-18-07-42.181.png",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/spec/features/landings/blue_car_2fields_min_spec.rb",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/lib/mixins/controllers/has_contextual_pages.rb",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/app/controllers/landings_controller.rb",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/app/views/shared/_visitor.html.haml",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/db/migrate/20140922173551_create_warthog_records.rb",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/app/models/arrival.rb",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/spec/support/page_setup_helper.rb",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/spec/support/landing_page_helper.rb",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/spec/support/capybara.rb",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/spec/support/feature_setup_helper.rb",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/spec/support/object.rb",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/app/models/ab_test.rb",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/app/assets/javascripts/forms/auto_policy_helper.mobile.js",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/app/assets/javascripts/auto_policy.mobile.js",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/spec/features/fullform_foundation_spec.rb",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/spec/support/integration_helper.rb",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/spec/support/s1_helper.rb",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/spec/support/s3_helper.rb",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/spec/support/s4_helper.rb",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/spec/support/sidekiq.rb",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/spec/support/registration_helper.rb",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/spec/support/factory_girl_singleton.rb",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/spec/helpers/auto_policies/autos_helper_spec.rb",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/spec/helpers/auto_policies_helper_spec.rb",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/spec/support/policy_form_helper.rb",
+		"/Users/jason/Desktop/evqt_form_flow_notes.txt",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/app/assets/stylesheets/themes/everquote/_landing.scss",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/app/views/layouts/everquote.html.haml",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/app/views/landings/_everquote.html.haml",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/db/seed_data/settings.txt",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/app/views/landings/_brown_life.html.haml",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/app/views/landings/index.html.haml",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/app/views/shared/_navbar.html.haml",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/app/views/layouts/landing_page.html.haml",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/app/views/layouts/empty_theme_landing_page.haml",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/app/assets/stylesheets/themes/everquote/_definitions.scss",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/app/assets/stylesheets/themes/everquote/style.css.scss",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/db/seed_data/state_discounts.csv",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/db/seed_data/keywords.csv",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/db/seed_data/domains.csv",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/db/seed_data/blog_categories.csv",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/db/seed_data/auto_insurance_terms.csv",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/db/seed_data/agent_listings.csv",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/db/seeds.rb",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/app/assets/javascripts/auto_policy.js",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/app/assets/javascripts/application.js",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/.git/COMMIT_EDITMSG",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/.git/rebase-merge/git-rebase-todo",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/app/views/auto_policies/three_step_minimal_foundation/_s3_coverage.html.haml",
+		"/Users/jason/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jason/Documents/EverQuote/Projects/.project/lynx.sublime-project",
+		"/Users/jason/.bash_profile",
+		"/Users/jason/Documents/Projects/multi-height-grid/.project/multi-height-grid-css.sublime-project",
+		"/Users/jason/Documents/UI/css/Flexbox/index.html",
+		"/Users/jason/Documents/UI/css/Flexbox/css/flexbox.css",
+		"/Users/jason/Documents/UI/css/Flexbox/css/fluid_grid.css",
+		"/Users/jason/Documents/UI/css/Flexbox/css/main.css",
+		"/Users/jason/Documents/UI/css/Flexbox/css/normalize.css",
+		"/Users/jason/Documents/Projects/multi-height-grid/app/scripts/controllers/main.js",
+		"/Users/jason/Documents/Projects/multi-height-grid/app/styles/partials/_columns.scss",
+		"/Users/jason/Documents/Projects/multi-height-grid/app/scripts/app.js",
+		"/Users/jason/Documents/Projects/multi-height-grid/app/views/main.html",
+		"/Users/jason/Documents/JW-Website/Portfolio/jwweb/app/styles/modules/_variables.scss",
+		"/Users/jason/Documents/Projects/multi-height-grid/app/styles/modules",
+		"/Users/jason/Documents/JW-Website/Portfolio/jwweb/app/styles/modules/_mixins.scss",
+		"/Users/jason/Documents/Projects/multi-height-grid/app/styles/modules/_mixins.scss",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/views/sidenav.html",
+		"/Users/jason/Dropbox/TechDesk/bash-cli/snippets.txt",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/views/story-dashboard.html",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/.git/MERGE_MSG",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/.gitignore",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/scripts/constants/Constants.js",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/scripts/filters/VenueFilter.js",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/scripts/controllers/DashboardController.js",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/index.html",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/views/phone-dashboard.html",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/scripts/factories/PhoneFactory.js",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/styles/partials/_dashboard.scss",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/scripts/directives/StoryDashboardDirective.js",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/scripts/directives/PhoneDashboardDirective.js",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/views/phone.html",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/views/story.html",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/styles/partials/venue.scss",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/scripts/routes/Routes.js",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/views/venue-dashboard.html",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/scripts/App.js",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/scripts/directives/DashboardDirective.js",
+		"/Users/jason/Desktop/forum_posts.rb",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/db/migrate/20150504180929_create_forum_comments.rb",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/db/migrate/20150504180944_create_forum_categories.rb",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/db/migrate/20150504181004_create_forum_posts_categories.rb",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/db/migrate/20150504181018_create_forum_votes.rb",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/db/migrate/20150504180859_create_forums.rb",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/db/migrate/20150504180914_create_forum_posts.rb",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/spec/requests/phone_request_spec.rb",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/db/seeds.rb",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/app/models/phone.rb",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/README.md",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/app/serializers/phone_serializer.rb",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/docs/sql-sandbox.sql",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/app/controllers/phones_controller.rb",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/spec/requests/story_request_spec.rb"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/jason/Documents/EverQuote/Projects/lynx/spec",
+			"/Users/jason/Documents/EverQuote/Projects/lynx/app/assets/stylesheets",
+			"/Users/jason/Documents/EverQuote/Projects/lynx/app/views",
+			"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api",
+			"/Users/jason/Documents/Stages/Projects/Stages Website/",
+			"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog",
+			"/Users/jason/Documents/Stages/Projects/Stages Website/",
+			"/Users/jason/Documents/Stages/Projects/Stages Website/shopify2/",
+			"/Users/jason/Documents/Stages/Projects/Stages Website/shopify2/stages-learning-dev-shop-8416463",
+			"/Users/jason/Documents/C4/Omega-SnowWhite",
+			"/Users/jason/Documents/C4/c4cp-web-portal/moodle/",
+			"/Users/jason/Documents/C4/Omega-SnowWhite",
+			"/Users/jason/Documents/C4/c4cp-web-portal/moodle/theme/courseware/less",
+			"/Users/jason/Documents/C4/Omega/",
+			"/Users/jason/Documents/C4/Omega-SnowWhite/",
+			"/Users/jason/Documents/C4/Omega-SnowWhite/app/styles/less",
+			"/Users/jason/Documents/C4/Omega-SnowWhite/app/",
+			"/Users/jason/Documents/C4/Omega-SnowWhite/app/styles/less",
+			"/Users/jason/Documents/C4/Omega-SnowWhite",
+			"/Users/jason/Documents/C4/c4cp-web-portal/moodle/",
+			"/Users/jason/Documents/C4/c4cp-web-portal/moodle",
+			"/Users/jason/Documents/C4/Omega-SnowWhite",
+			"/Users/jason/Documents/C4/c4cp-web-portal",
+			"/Users/jason/Documents/C4/",
+			"/Users/jason/Documents/C4/c4cp-web-portal",
+			"/Users/jason/Documents/C4/Omega-SnowWhite/",
+			"/Users/jason/Documents/C4/Omega-SnowWhite/app/styles/less",
+			"<open files>,/Users/jason/Documents/Center4SI/c4cp-web-portal/moodle/theme/t3courseware/less,/Users/jason/Documents/Center4SI/c4cp-web-portal/moodle/theme/t3courseware/less",
+			"<open files>,/Users/jason/Documents/Center4SI/c4cp-web-portal/moodle/theme/t3courseware/less",
+			"<open files>",
+			"<open files>,/Users/jason/Documents/Center4SI/Omega-SnowWhite/app",
+			"<open files>",
+			"/Users/jason/Documents/Center4SI/Omega-SnowWhite/app",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"s",
+			"value",
+			"haml",
+			"text-rendering:",
+			"popupFormSucc",
+			"text-rendering:",
+			"optimizeLegibility",
+			"\\@if",
+			"get_setting",
+			"enable_ab",
+			"pick",
+			"input",
+			"pick",
+			"phone",
+			"formField",
+			"\\$values",
+			"axis",
+			".inner",
+			"([}\\n?])(?:[\\.\\w+])",
+			"([}])(?:[\\.\\w+])",
+			"}\\n.",
+			"\"",
+			"th",
+			"search\\.status",
+			"hash",
+			"to_h",
+			"The Perks of Being A Wallflower",
+			"If I Stay",
+			"Peter Pan",
+			"phones",
+			"\\},",
+			"\\}",
+			"\\{",
+			"(phones)(?:\\[)",
+			"fishermanswharff@mac.com",
+			"obj",
+			":phones",
+			"\\},",
+			"\\}",
+			"\\{ ",
+			"\\}",
+			"\\{",
+			"\\{|\\}",
+			"\\{",
+			"begin",
+			"venue: [\\w+\\.]+\\(['\\w'\\s]+\\)",
+			"venue",
+			"story_type: 0",
+			"story_type: 1",
+			"type: 'fixed'",
+			"type: 'venue'",
+			"type\\: 'fixed'",
+			"type\\: 'venue'",
+			"\\n\\d{1,4}\\s",
+			"\\n\\d{1,4}",
+			"\\d\\/\\d{1,2}\\/\\d{1,2}",
+			"url: ''",
+			"after_create",
+			"\\@venue",
+			"response1",
+			"string",
+			" Table",
+			"localhost",
+			"user",
+			"/users",
+			"last_name",
+			"first_name",
+			"@user",
+			"user",
+			"firstname",
+			"#author-box",
+			"author-box",
+			"each",
+			"post-body-content",
+			"div.post-body-content::after",
+			".post-topic",
+			"div.post-topic",
+			".post-topic",
+			".post-body-content::after",
+			"div.post-body-content::after",
+			"div.post-item.topic-view div.post-body-content",
+			".post-body-content",
+			"topics",
+			"<!--",
+			"-->",
+			"<!--",
+			"content.topic_list",
+			"border-top",
+			"div#author-box",
+			"author-box",
+			"#author-box",
+			"trace",
+			"$",
+			"txt",
+			"description",
+			"\"></",
+			">\n",
+			"<a",
+			"<a\\>",
+			"\\<a\\>",
+			"<a>",
+			"header",
+			"h5",
+			"h3",
+			"app-header",
+			"img.",
+			"btn",
+			"img",
+			"#homepage_slider .slides img",
+			"#homepage_slider",
+			"div.homepage_content div.container.featurette h2",
+			"row",
+			"hr",
+			"></",
+			"section-container",
+			"translateY",
+			" \n",
+			"body",
+			"; ",
+			" %}",
+			"four",
+			".sale-banner",
+			"br.clear",
+			".clear",
+			"blog_widget_select",
+			"blog_widget",
+			"settings.blog_widget",
+			"Widgets"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"$args",
+			"'",
+			"search\\.type",
+			"@$&",
+			"@",
+			"@$&",
+			" $&\\n",
+			"\\n$& ",
+			"@$&",
+			"foo@bar.com",
+			"$&\\n",
+			"\\n$&",
+			"$&\\n",
+			" $&",
+			"$& ",
+			"$1 ",
+			"\\{\\s",
+			"phone: phones[0]",
+			"story_type: 'fixed'",
+			"story_type: 'venue'",
+			"story_type: 0",
+			"story_type: 1",
+			"type\\: 0",
+			"type\\: 1",
+			"",
+			" ",
+			"\\n",
+			"",
+			"url: 'http://callmeishmael.com'",
+			"\\@venues[2]",
+			"\\@venues[1]",
+			"\\@venues[0]",
+			"",
+			"/admin/users",
+			"lastname",
+			"firstname",
+			"@admin_user",
+			"<h5>",
+			"a",
+			"h5",
+			"translateX",
+			"h5",
+			"translateX",
+			"",
+			"courseConstructor",
+			"courseContructor",
+			"courseConstructor",
+			"",
+			"section.main-container",
+			"",
+			"type=\"module\"",
+			"last",
+			"  ",
+			" ",
+			"html",
+			"<component id=\"\" class=\"$1\" x=\"0\" y=\"0\"/>",
+			"\\n",
+			"images/Pipes/spritesheet/pipes_animation-easljs.png",
+			"images/Pipes/spritesheet/pipes_animation-easeljs.png"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/jason/Documents/UI/codewars/next-biggest-number/lib/codewars.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1307,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								108,
+								108
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "/Users/jason/Documents/UI/codewars/next-biggest-number/spec/codewars_spec.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1290,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								597,
+								597
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RSpec/RSpec.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.48226816596,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 253.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/RSpec/rspec-shell.sublime-build",
+	"project": "codewars.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gemfile",
+				"next-biggest-number/Gemfile"
+			],
+			[
+				"karma",
+				"map-function-issue/karma.conf.js"
+			],
+			[
+				"landings/_blue_",
+				"app/views/landings/_blue_car_2fields_min_foundation_mobile.mobile.haml"
+			],
+			[
+				"fullform_mobile_foundation.h",
+				"app/views/auto_policies/fullform_mobile_foundation/_s1.mobile.haml"
+			],
+			[
+				"app/controllers/landings_controller.rb",
+				"app/controllers/landings_controller.rb"
+			],
+			[
+				"create_wa",
+				"db/migrate/20140922173551_create_warthog_records.rb"
+			],
+			[
+				"app/models/arrival.rb",
+				"app/models/arrival.rb"
+			],
+			[
+				"lib/mixins/controllers/has_contextual_pages.rb",
+				"lib/mixins/controllers/has_contextual_pages.rb"
+			],
+			[
+				"shared/_visitor.html.haml",
+				"app/views/shared/_visitor.html.haml"
+			],
+			[
+				"landings/index.mob",
+				"app/views/landings/index.mobile.haml"
+			],
+			[
+				"auto_policy_help",
+				"app/assets/javascripts/forms/auto_policy_helper.mobile.js"
+			],
+			[
+				"auto_policy.mobile.js",
+				"app/assets/javascripts/auto_policy.mobile.js"
+			],
+			[
+				"object",
+				"spec/support/object.rb"
+			],
+			[
+				"landing_he",
+				"spec/support/landing_page_helper.rb"
+			],
+			[
+				"feature",
+				"spec/support/feature_setup_helper.rb"
+			],
+			[
+				"snippets",
+				"UI/html/HTML5 Graphics and Animation with Canvas/ExampleSnippets.txt"
+			],
+			[
+				"conte",
+				"src/client/js/classes/context.challenge.adventure.js"
+			],
+			[
+				"cotext",
+				"src/client/js/classes/context.challenge.adventure.js"
+			],
+			[
+				"adventr",
+				"www/xml/adventure.xml"
+			],
+			[
+				"adventurej",
+				"src/client/js/classes/adventure.js"
+			],
+			[
+				"pipes",
+				"src/client/js/classes/pipes.puzzles.adventure.js"
+			],
+			[
+				"udio",
+				"src/client/less/styles/udio.adventure.less"
+			],
+			[
+				"adven",
+				"src/client/js/classes/adventure.js"
+			],
+			[
+				"advent",
+				"src/client/xml/adventure.xml"
+			],
+			[
+				"ud",
+				"src/client/less/styles/udio.adventure.less"
+			],
+			[
+				"invent",
+				"src/client/js/classes/inventory.world.adventure.js"
+			],
+			[
+				"worl",
+				"src/client/js/classes/world.adventure.js"
+			],
+			[
+				"world",
+				"src/client/js/classes/world.adventure.js"
+			],
+			[
+				"sett",
+				"src/client/js/classes/settings.adventure.js"
+			],
+			[
+				"adv",
+				"src/client/xml/adventure.xml"
+			],
+			[
+				"xml",
+				"src/client/xml/adventure.xml"
+			],
+			[
+				"set",
+				"src/client/js/classes/settings.adventure.js"
+			],
+			[
+				"peddler.",
+				"src/client/js/classes/peddler.puzzles.adventure.js"
+			],
+			[
+				"",
+				"src/client/js/classes/pipes.puzzles.adventure.js"
+			],
+			[
+				"avit",
+				"src/client/js/classes/avitar.world.adventure.js"
+			],
+			[
+				"coursecon",
+				"src/xml/CourseContent.xml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
