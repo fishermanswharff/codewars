@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"reg",
+				"reg_sentence3"
+			],
+			[
+				"reg_",
+				"reg_sentence2"
+			],
+			[
+				"string",
+				"string_to_match"
+			],
+			[
 				"num",
 				"num_to_swap"
 			],
@@ -502,39 +514,11 @@
 			[
 				"manu",
 				"manualMode"
-			],
-			[
-				"man",
-				"manualMode"
-			],
-			[
-				"cry",
-				"crystalsLoaded"
-			],
-			[
-				"crys",
-				"crystalLevel"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "/Users/jason/Documents/UI/codewars/next-biggest-number/lib/codewars.rb",
-			"settings":
-			{
-				"buffer_size": 1307,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/jason/Documents/UI/codewars/next-biggest-number/spec/codewars_spec.rb",
-			"settings":
-			{
-				"buffer_size": 1290,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -543,17 +527,21 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 375.0,
-		"last_filter": "rspec",
+		"height": 115.0,
+		"last_filter": "install",
 		"selected_items":
 		[
 			[
-				"rspec",
-				"RSpec: open corresponding file"
-			],
-			[
 				"install",
 				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"rspec",
+				"RSpec: create new module"
 			],
 			[
 				"mark",
@@ -604,13 +592,17 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 486.0
+		"width": 516.0
 	},
 	"console":
 	{
 		"height": 379.0,
 		"history":
 		[
+			"exec rspec /Users/jason/Documents/UI/codewars/next-biggest-number/spec/codewars_spec.rb",
+			"exec rspec",
+			"bundle exec rspec",
+			"bundle exec rspec /Users/jason/Documents/UI/codewars/next-biggest-number/spec/codewars_spec.rb",
 			"echo $PATH",
 			"$",
 			"'hello world'",
@@ -635,19 +627,57 @@
 	"expanded_folders":
 	[
 		"/Users/jason/Documents/UI/codewars",
-		"/Users/jason/Documents/UI/codewars/map-function-issue/spec",
-		"/Users/jason/Documents/UI/codewars/surrounding-primes/lib",
-		"/Users/jason/Documents/UI/codewars/surrounding-primes/spec"
+		"/Users/jason/Documents/UI/codewars/calculating-with-functions/lib",
+		"/Users/jason/Documents/UI/codewars/calculating-with-functions/spec"
 	],
 	"file_history":
 	[
+		"/Users/jason/Dropbox/Personal/New Job Search/fuigo-notes.txt",
+		"/Users/jason/Documents/UI/codewars/.project/codewars.sublime-project",
+		"/Users/jason/Documents/UI/codewars/.gitignore",
+		"/Users/jason/Documents/UI/codewars/Gemfile.lock",
+		"/Users/jason/Documents/UI/codewars/calculating-with-functions/spec/codewars_spec.rb",
+		"/Users/jason/Documents/UI/codewars/calculating-with-functions/lib/codewars.rb",
+		"/Users/jason/Documents/UI/codewars/flattened_keys/spec/codewars_spec.rb",
+		"/Users/jason/Documents/UI/codewars/flattened_keys/lib/codewars.rb",
+		"/Users/jason/Documents/UI/codewars/pangram/spec/codewars_spec.rb",
+		"/Users/jason/Documents/UI/codewars/pangram/lib/codewars.rb",
+		"/Users/jason/Documents/UI/codewars/prime-factorization/lib/codewars.rb",
+		"/Users/jason/Documents/UI/codewars/prime-factorization/spec/codewars_spec.rb",
+		"/Users/jason/Documents/UI/codewars/ascii-hex-converter/spec/codewars_spec.rb",
+		"/Users/jason/Documents/UI/codewars/ascii-hex-converter/lib/codewars.rb",
+		"/Users/jason/Documents/UI/codewars/pig-latin/spec/codewars_spec.rb",
+		"/Users/jason/Documents/UI/codewars/pig-latin/lib/codewars.rb",
+		"/Users/jason/Documents/UI/codewars/exes-ohs/spec/codewars_spec.rb",
+		"/Users/jason/Documents/UI/codewars/exes-ohs/lib/codewars.rb",
+		"/Users/jason/Documents/UI/codewars/caffeine-script/lib/codewars.rb",
+		"/Users/jason/Documents/UI/codewars/caffeine-script/spec/codewars_spec.rb",
+		"/Users/jason/Documents/UI/codewars/rot-13/spec/codewars_spec.rb",
+		"/Users/jason/Documents/UI/codewars/rot-13/lib/codewars.rb",
+		"/Users/jason/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jason/Documents/UI/codewars/sum-of-odd-numbers/lib/codewars.rb",
+		"/Users/jason/Documents/UI/codewars/next-biggest-number/spec/codewars_spec.rb",
+		"/Users/jason/Documents/UI/codewars/jaden-casing-strings/lib/codewars.rb",
+		"/Users/jason/Documents/UI/codewars/jaden-casing-strings/spec/codewars_spec.rb",
+		"/Users/jason/Documents/UI/codewars/sum-of-odd-numbers/spec/codewars_spec.rb",
+		"/Users/jason/Documents/UI/codewars/next-biggest-number/.rspec",
+		"/Users/jason/Library/Application Support/Sublime Text 3/Packages/User/RubyTest.sublime-settings",
+		"/Users/jason/Documents/UI/codewars/next-biggest-number/lib/codewars.rb",
+		"/Users/jason/Documents/UI/codewars/next-biggest-number/Gemfile",
+		"/Users/jason/Documents/UI/codewars/Gemfile",
+		"/Users/jason/.bash_profile",
+		"/Users/jason/.rvm/gems/ruby-2.2.0/gems/spring-1.4.0/lib/spring/configuration.rb",
+		"/Users/jason/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/bundler-1.7.2/lib/bundler/definition.rb",
+		"/Users/jason/Library/Application Support/Sublime Text 3/Packages/RubyTest/RubyTest.sublime-settings",
+		"/Users/jason/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb",
+		"/Users/jason/Documents/UI/codewars/test/next_biggest_number.rb",
+		"/Users/jason/Documents/UI/codewars/test/next_biggest_number_spec.rb",
+		"/Users/jason/Documents/UI/codewars/test/Gemfile",
 		"/Users/jason/Library/Application Support/Sublime Text 3/Packages/User/RSpec/rspec-shell.sublime-build",
 		"/Users/jason/Documents/UI/codewars/map-function-issue/spec/codewars_spec.rb",
 		"/Users/jason/Library/Application Support/Sublime Text 3/Packages/User/RSpec/RSpec.sublime-build",
 		"/Users/jason/Documents/UI/codewars/next-biggest-number/spec/rspec-redux.sublime-build",
 		"/Users/jason/Documents/UI/codewars/next-biggest-number/rspec-redux.sublime-build",
-		"/Users/jason/Documents/UI/codewars/next-biggest-number/Gemfile",
-		"/Users/jason/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb",
 		"/Users/jason/Documents/UI/codewars/next-biggest-number/lib/codewars.js",
 		"/Users/jason/Documents/UI/codewars/surrounding-primes/spec/codewars_spec.js",
 		"/Users/jason/Documents/UI/codewars/surrounding-primes/spec/codewars_spec.rb",
@@ -716,9 +746,7 @@
 		"/Users/jason/Documents/EverQuote/Projects/lynx/.git/COMMIT_EDITMSG",
 		"/Users/jason/Documents/EverQuote/Projects/lynx/.git/rebase-merge/git-rebase-todo",
 		"/Users/jason/Documents/EverQuote/Projects/lynx/app/views/auto_policies/three_step_minimal_foundation/_s3_coverage.html.haml",
-		"/Users/jason/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/jason/Documents/EverQuote/Projects/.project/lynx.sublime-project",
-		"/Users/jason/.bash_profile",
 		"/Users/jason/Documents/Projects/multi-height-grid/.project/multi-height-grid-css.sublime-project",
 		"/Users/jason/Documents/UI/css/Flexbox/index.html",
 		"/Users/jason/Documents/UI/css/Flexbox/css/flexbox.css",
@@ -731,44 +759,7 @@
 		"/Users/jason/Documents/Projects/multi-height-grid/app/views/main.html",
 		"/Users/jason/Documents/JW-Website/Portfolio/jwweb/app/styles/modules/_variables.scss",
 		"/Users/jason/Documents/Projects/multi-height-grid/app/styles/modules",
-		"/Users/jason/Documents/JW-Website/Portfolio/jwweb/app/styles/modules/_mixins.scss",
-		"/Users/jason/Documents/Projects/multi-height-grid/app/styles/modules/_mixins.scss",
-		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/views/sidenav.html",
-		"/Users/jason/Dropbox/TechDesk/bash-cli/snippets.txt",
-		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/views/story-dashboard.html",
-		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/.git/MERGE_MSG",
-		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/.gitignore",
-		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/scripts/constants/Constants.js",
-		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/scripts/filters/VenueFilter.js",
-		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/scripts/controllers/DashboardController.js",
-		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/index.html",
-		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/views/phone-dashboard.html",
-		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/scripts/factories/PhoneFactory.js",
-		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/styles/partials/_dashboard.scss",
-		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/scripts/directives/StoryDashboardDirective.js",
-		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/scripts/directives/PhoneDashboardDirective.js",
-		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/views/phone.html",
-		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/views/story.html",
-		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/styles/partials/venue.scss",
-		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/scripts/routes/Routes.js",
-		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/views/venue-dashboard.html",
-		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/scripts/App.js",
-		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-app/app/scripts/directives/DashboardDirective.js",
-		"/Users/jason/Desktop/forum_posts.rb",
-		"/Users/jason/Documents/EverQuote/Projects/lynx/db/migrate/20150504180929_create_forum_comments.rb",
-		"/Users/jason/Documents/EverQuote/Projects/lynx/db/migrate/20150504180944_create_forum_categories.rb",
-		"/Users/jason/Documents/EverQuote/Projects/lynx/db/migrate/20150504181004_create_forum_posts_categories.rb",
-		"/Users/jason/Documents/EverQuote/Projects/lynx/db/migrate/20150504181018_create_forum_votes.rb",
-		"/Users/jason/Documents/EverQuote/Projects/lynx/db/migrate/20150504180859_create_forums.rb",
-		"/Users/jason/Documents/EverQuote/Projects/lynx/db/migrate/20150504180914_create_forum_posts.rb",
-		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/spec/requests/phone_request_spec.rb",
-		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/db/seeds.rb",
-		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/app/models/phone.rb",
-		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/README.md",
-		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/app/serializers/phone_serializer.rb",
-		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/docs/sql-sandbox.sql",
-		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/app/controllers/phones_controller.rb",
-		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/spec/requests/story_request_spec.rb"
+		"/Users/jason/Documents/JW-Website/Portfolio/jwweb/app/styles/modules/_mixins.scss"
 	],
 	"find":
 	{
@@ -820,6 +811,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"alpha_len",
+			"ciphered",
+			"start_sub",
+			"array",
 			"s",
 			"value",
 			"haml",
@@ -943,11 +938,7 @@
 			"four",
 			".sale-banner",
 			"br.clear",
-			".clear",
-			"blog_widget_select",
-			"blog_widget",
-			"settings.blog_widget",
-			"Widgets"
+			".clear"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1024,75 +1015,13 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/Users/jason/Documents/UI/codewars/next-biggest-number/lib/codewars.rb",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1307,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								108,
-								108
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		},
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 1,
-					"file": "/Users/jason/Documents/UI/codewars/next-biggest-number/spec/codewars_spec.rb",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1290,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								597,
-								597
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/RSpec/RSpec.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1124,7 +1053,7 @@
 		"cols":
 		[
 			0.0,
-			0.48226816596,
+			0.478097719052,
 			1.0
 		],
 		"rows":
@@ -1136,13 +1065,13 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 253.0
+		"height": 181.0
 	},
 	"output.find_results":
 	{
 		"height": 0.0
 	},
-	"pinned_build_system": "Packages/User/RSpec/rspec-shell.sublime-build",
+	"pinned_build_system": "Packages/RSpec/RSpec.sublime-build",
 	"project": "codewars.sublime-project",
 	"replace":
 	{
@@ -1320,7 +1249,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
@@ -1328,7 +1257,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 214.0,
+	"side_bar_width": 237.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

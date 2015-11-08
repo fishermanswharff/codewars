@@ -20,12 +20,3 @@ RSpec.describe 'codewars kata: ' do
     expect(is_pangram? reg_sentence3).to eq false
   end
 end
-
-
-=begin
-str = "How can mirrors be real if our eyes aren't real";
-Test.assert_equals(str.toJadenCase(), "How Can Mirrors Be Real If Our Eyes Aren't Real")
-
-abcdefghijklmnopqrstuvwxyz
-nopqrstuvwxyzabcdefghijklm
-=end
