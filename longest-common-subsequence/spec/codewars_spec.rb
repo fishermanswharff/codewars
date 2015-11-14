@@ -22,6 +22,4 @@ RSpec.describe 'codewars kata: ' do
   it 'returns the longest common subsequence between the two strings' do
     expect(lcs(string_d, string_e)).to eq '12356'
   end
-
-
 end
