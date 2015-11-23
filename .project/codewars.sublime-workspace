@@ -519,6 +519,30 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/Users/jason/Documents/Projects/codewars/folder-template/lib/codewars.rb",
+			"settings":
+			{
+				"buffer_size": 59,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jason/Documents/Projects/codewars/json-key-value-pair/lib/codewars.js",
+			"settings":
+			{
+				"buffer_size": 371,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jason/Documents/Projects/codewars/json-key-value-pair/spec/codewars_spec.js",
+			"settings":
+			{
+				"buffer_size": 1432,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -626,12 +650,25 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/jason/Documents/UI/codewars",
-		"/Users/jason/Documents/UI/codewars/calculating-with-functions/lib",
-		"/Users/jason/Documents/UI/codewars/calculating-with-functions/spec"
+		"/Users/jason/Documents/Projects/codewars",
+		"/Users/jason/Documents/Projects/codewars/json-key-value-pair",
+		"/Users/jason/Documents/Projects/codewars/json-key-value-pair/lib",
+		"/Users/jason/Documents/Projects/codewars/json-key-value-pair/spec"
 	],
 	"file_history":
 	[
+		"/Users/jason/Documents/Projects/codewars/.git/COMMIT_EDITMSG",
+		"/Users/jason/Documents/Projects/codewars/folder-template/lib/codewars.js",
+		"/Users/jason/Documents/Projects/codewars/.gitignore",
+		"/Users/jason/Documents/Projects/codewars/folder-template/spec/codewars_spec.rb",
+		"/Users/jason/Documents/Projects/codewars/folder-template/spec/codewars_spec.js",
+		"/Users/jason/Documents/Projects/codewars/folder-template/Gemfile",
+		"/Users/jason/Documents/Projects/codewars/folder-template/package.json",
+		"/Users/jason/Documents/Projects/codewars/map-function-issue/spec/codewars_spec.js",
+		"/Users/jason/Documents/Projects/codewars/surrounding-primes/spec/codewars_spec.js",
+		"/Users/jason/Documents/Projects/codewars/sum-of-odd-numbers/spec/codewars_spec.js",
+		"/Users/jason/Documents/Projects/codewars/flattened_keys/spec/codewars_spec.js",
+		"/Users/jason/Documents/Projects/codewars/ascii-hex-converter/spec/codewars_spec.js",
 		"/Users/jason/Dropbox/Personal/New Job Search/fuigo-notes.txt",
 		"/Users/jason/Documents/UI/codewars/.project/codewars.sublime-project",
 		"/Users/jason/Documents/UI/codewars/.gitignore",
@@ -747,19 +784,7 @@
 		"/Users/jason/Documents/EverQuote/Projects/lynx/.git/rebase-merge/git-rebase-todo",
 		"/Users/jason/Documents/EverQuote/Projects/lynx/app/views/auto_policies/three_step_minimal_foundation/_s3_coverage.html.haml",
 		"/Users/jason/Documents/EverQuote/Projects/.project/lynx.sublime-project",
-		"/Users/jason/Documents/Projects/multi-height-grid/.project/multi-height-grid-css.sublime-project",
-		"/Users/jason/Documents/UI/css/Flexbox/index.html",
-		"/Users/jason/Documents/UI/css/Flexbox/css/flexbox.css",
-		"/Users/jason/Documents/UI/css/Flexbox/css/fluid_grid.css",
-		"/Users/jason/Documents/UI/css/Flexbox/css/main.css",
-		"/Users/jason/Documents/UI/css/Flexbox/css/normalize.css",
-		"/Users/jason/Documents/Projects/multi-height-grid/app/scripts/controllers/main.js",
-		"/Users/jason/Documents/Projects/multi-height-grid/app/styles/partials/_columns.scss",
-		"/Users/jason/Documents/Projects/multi-height-grid/app/scripts/app.js",
-		"/Users/jason/Documents/Projects/multi-height-grid/app/views/main.html",
-		"/Users/jason/Documents/JW-Website/Portfolio/jwweb/app/styles/modules/_variables.scss",
-		"/Users/jason/Documents/Projects/multi-height-grid/app/styles/modules",
-		"/Users/jason/Documents/JW-Website/Portfolio/jwweb/app/styles/modules/_mixins.scss"
+		"/Users/jason/Documents/Projects/multi-height-grid/.project/multi-height-grid-css.sublime-project"
 	],
 	"find":
 	{
@@ -1015,13 +1040,105 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/Users/jason/Documents/Projects/codewars/folder-template/lib/codewars.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 59,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								59,
+								59
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/jason/Documents/Projects/codewars/json-key-value-pair/lib/codewars.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 371,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								371,
+								371
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		},
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 2,
+					"file": "/Users/jason/Documents/Projects/codewars/json-key-value-pair/spec/codewars_spec.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1432,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								781,
+								781
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -1053,7 +1170,7 @@
 		"cols":
 		[
 			0.0,
-			0.478097719052,
+			0.469383128224,
 			1.0
 		],
 		"rows":
@@ -1084,6 +1201,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"package.json",
+				"folder-template/package.json"
+			],
 			[
 				"gemfile",
 				"next-biggest-number/Gemfile"
@@ -1249,7 +1370,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
@@ -1257,7 +1378,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 237.0,
+	"side_bar_width": 50.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
